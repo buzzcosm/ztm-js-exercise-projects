@@ -12,3 +12,4 @@ Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects
 6. Animated Template - [Github](https://github.com/buzzcosm/animated-template) | [View Live](https://buzzcosm.github.io/animated-template/)
 7. Animated Navigation - [Github](https://github.com/buzzcosm/animated-navigation-vanilla-js-app) | [View Live](https://buzzcosm.github.io/animated-navigation-vanilla-js-app/)
 8. Music Player - [Github](https://github.com/buzzcosm/music-player-vanilla-js-app) | [View Live](https://buzzcosm.github.io/music-player-vanilla-js-app/)
+9. Custom Countdown - [Github](https://github.com/buzzcosm/custom-countdown-vanilla-js-app) | [View Live](https://buzzcosm.github.io/custom-countdown-vanilla-js-app/)
