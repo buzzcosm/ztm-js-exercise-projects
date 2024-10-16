@@ -14,3 +14,4 @@ Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects
 8. Music Player - [Github](https://github.com/buzzcosm/music-player-vanilla-js-app) | [View Live](https://buzzcosm.github.io/music-player-vanilla-js-app/)
 9. Custom Countdown - [Github](https://github.com/buzzcosm/custom-countdown-vanilla-js-app) | [View Live](https://buzzcosm.github.io/custom-countdown-vanilla-js-app/)
 10. Book Keeper - [Github](https://github.com/buzzcosm/book-keeper-vanilla-js-app) | [View Live](https://buzzcosm.github.io/book-keeper-vanilla-js-app/)
+11. Video Player - [Github](https://github.com/buzzcosm/custom-video-player-vanilla-js-app) | [View Live](https://buzzcosm.github.io/custom-video-player-vanilla-js-app/)
