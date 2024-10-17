@@ -16,3 +16,4 @@ Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects
 10. Book Keeper - [Github](https://github.com/buzzcosm/book-keeper-vanilla-js-app) | [View Live](https://buzzcosm.github.io/book-keeper-vanilla-js-app/)
 11. Video Player - [Github](https://github.com/buzzcosm/custom-video-player-vanilla-js-app) | [View Live](https://buzzcosm.github.io/custom-video-player-vanilla-js-app/)
 12. Form Validator - [Github](https://github.com/buzzcosm/form-validator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/form-validator-vanilla-js-app/)
+13. Spock Rock Game - [Github](https://github.com/buzzcosm/spock-rock-game-vanilla-js-app) | [View Live](https://buzzcosm.github.io/spock-rock-game-vanilla-js-app/)
