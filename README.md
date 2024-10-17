@@ -8,7 +8,7 @@ Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects
 2. Infinite Scroll - [Github](https://github.com/buzzcosm/infinite-scroll-vanilla-js-app) | [View Live](https://buzzcosm.github.io/infinite-scroll-vanilla-js-app/)
 3. Picture in Picture - [Github](https://github.com/buzzcosm/picture-in-picture-vanilla-js-app) | [View Live](https://buzzcosm.github.io/picture-in-picture-vanilla-js-app/)
 4. Joke Teller - [Github](https://github.com/buzzcosm/joke-teller-vanilla-js-app) | [View Live](https://buzzcosm.github.io/joke-teller-vanilla-js-app/)
-5. ight & Dark Mode - [Github](https://github.com/buzzcosm/light-dark-mode-vanilla-js-app) | [View Live](https://buzzcosm.github.io/light-dark-mode-vanilla-js-app/)
+5. Light & Dark Mode - [Github](https://github.com/buzzcosm/light-dark-mode-vanilla-js-app) | [View Live](https://buzzcosm.github.io/light-dark-mode-vanilla-js-app/)
 6. Animated Template - [Github](https://github.com/buzzcosm/animated-template) | [View Live](https://buzzcosm.github.io/animated-template/)
 7. Animated Navigation - [Github](https://github.com/buzzcosm/animated-navigation-vanilla-js-app) | [View Live](https://buzzcosm.github.io/animated-navigation-vanilla-js-app/)
 8. Music Player - [Github](https://github.com/buzzcosm/music-player-vanilla-js-app) | [View Live](https://buzzcosm.github.io/music-player-vanilla-js-app/)
