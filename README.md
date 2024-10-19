@@ -1,6 +1,8 @@
 # ZTM JS - Exercise Projects
 
-Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume)). Student projects and original code to find in [javascript20-projects](https://github.com/buzzcosm/javascript20-projects) forked from [zero-to-mastery/javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects).
+Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume)). 
+
+Student projects and original code to find in [javascript20-projects](https://github.com/buzzcosm/javascript20-projects) forked from [zero-to-mastery/javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects).
 
 ## My Overview
 
