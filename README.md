@@ -18,3 +18,4 @@ Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects
 12. Form Validator - [Github](https://github.com/buzzcosm/form-validator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/form-validator-vanilla-js-app/)
 13. Spock Rock Game - [Github](https://github.com/buzzcosm/spock-rock-game-vanilla-js-app) | [View Live](https://buzzcosm.github.io/spock-rock-game-vanilla-js-app/)
 14. NASA API Pictures - [Github](https://github.com/buzzcosm/nasa-api-pictures-vanilla-js-app) | [View Live](https://buzzcosm.github.io/nasa-api-pictures-vanilla-js-app/)
+15. Math Sprint Game - [Github](https://github.com/buzzcosm/math-sprint-game-vanilla-js-app) | [View Live](https://buzzcosm.github.io/math-sprint-game-vanilla-js-app/)
