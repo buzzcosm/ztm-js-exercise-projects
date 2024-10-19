@@ -1,8 +1,8 @@
 # ZTM JS - Exercise Projects
 
-Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume)).
+Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume)). Student projects and original code to find in [javascript20-projects](https://github.com/buzzcosm/javascript20-projects) forked from [zero-to-mastery/javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects).
 
-## Overview
+## My Overview
 
 1. Quote Generator - [Github](https://github.com/buzzcosm/quote-generator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/quote-generator-vanilla-js-app/)
 2. Infinite Scroll - [Github](https://github.com/buzzcosm/infinite-scroll-vanilla-js-app) | [View Live](https://buzzcosm.github.io/infinite-scroll-vanilla-js-app/)
