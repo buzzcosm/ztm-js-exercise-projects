@@ -22,4 +22,4 @@ Student projects and original code to find in [javascript20-projects](https://gi
 14. NASA API Pictures - [Github](https://github.com/buzzcosm/nasa-api-pictures-vanilla-js-app) | [View Live](https://buzzcosm.github.io/nasa-api-pictures-vanilla-js-app/)
 15. Math Sprint Game - [Github](https://github.com/buzzcosm/math-sprint-game-vanilla-js-app) | [View Live](https://buzzcosm.github.io/math-sprint-game-vanilla-js-app/)
 16. Drag & Drop (Kanban Board) - [Github](https://github.com/buzzcosm/drag-and-drop-vanilla-js-app) | [View Live](https://buzzcosm.github.io/drag-and-drop-vanilla-js-app/)
-17. Calculator 📌(issues) - [Github](https://github.com/buzzcosm/calculator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/calculator-vanilla-js-app/)
+17. Calculator (🔥issues) - [Github](https://github.com/buzzcosm/calculator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/calculator-vanilla-js-app/)
