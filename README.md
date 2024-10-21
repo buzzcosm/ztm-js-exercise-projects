@@ -24,3 +24,4 @@ Student projects and original code to find in [javascript20-projects](https://gi
 16. Drag & Drop (Kanban Board) - [Github](https://github.com/buzzcosm/drag-and-drop-vanilla-js-app) | [View Live](https://buzzcosm.github.io/drag-and-drop-vanilla-js-app/)
 17. Calculator - [Github](https://github.com/buzzcosm/calculator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/calculator-vanilla-js-app/)
 18. Splash Page - [Github](https://github.com/buzzcosm/splash-page-vanilla-js-app) | [View Live](https://buzzcosm.github.io/splash-page-vanilla-js-app/)
+19. Paint Clone (WIP) - [Github](https://github.com/buzzcosm/paint-clone-vanilla-js-app) | [View Live](https://buzzcosm.github.io/paint-clone-vanilla-js-app/)
