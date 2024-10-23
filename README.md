@@ -25,6 +25,7 @@ Student projects and original code to find in [javascript20-projects](https://gi
 17. Calculator - [Github](https://github.com/buzzcosm/calculator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/calculator-vanilla-js-app/)
 18. Splash Page - [Github](https://github.com/buzzcosm/splash-page-vanilla-js-app) | [View Live](https://buzzcosm.github.io/splash-page-vanilla-js-app/)
 19. Paint Clone - [Github](https://github.com/buzzcosm/paint-clone-vanilla-js-app) | [View Live](https://buzzcosm.github.io/paint-clone-vanilla-js-app/)
+20. Pong - [Github](https://github.com/buzzcosm/pong-vanilla-js-app) | [View Live](https://buzzcosm.github.io/pong-vanilla-js-app/)
 
 ### Inspiration
 
