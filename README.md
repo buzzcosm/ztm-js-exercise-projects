@@ -44,3 +44,4 @@ Student projects and original code to find in [javascript20-projects](https://gi
 - [Garbage Collection in Redux Applications](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
 - [Mozilla - References: Web API](https://developer.mozilla.org/en-US/docs/Web/API) 📄🔥
 - [Mozilla - Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop) 📄🔥
+- [W3Schools - Asynchronous JavaScript](https://www.w3schools.com/js/js_asynchronous.asp) 📄🔥
