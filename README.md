@@ -1,6 +1,6 @@
 # ZTM JS - Exercise Projects
 
-Exercise Projects of `ZTM` Cours on Udemy ([JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume)).
+Exercise Projects of `ZTM` Course on Udemy ([JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume)).
 
 [ZTM Open Source Projects](https://github.com/zero-to-mastery)
 
