@@ -35,6 +35,7 @@ Student projects and original code to find in [javascript20-projects](https://gi
 
 #### Javascript Runtime
 
-- [YouTube - Philip Roberts About Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Philip Roberts About Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ▶️ YouTube 🔥
 - [Model example](http://latentflip.com/loupe/?code=ZnVuY3Rpb24gcHJpbnRIZWxsbygpIHsNCiAgICBjb25zb2xlLmxvZygnSGVsbG8gZnJvbSBiYXonKTsNCn0NCg0KZnVuY3Rpb24gYmF6KCkgew0KICAgIHNldFRpbWVvdXQocHJpbnRIZWxsbywgMzAwMCk7DQp9DQoNCmZ1bmN0aW9uIGJhcigpIHsNCiAgICBiYXooKTsNCn0NCg0KZnVuY3Rpb24gZm9vKCkgew0KICAgIGJhcigpOw0KfQ0KDQpmb28oKTs%3D!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
 - [Garbage Collection in Redux Applications](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
+- [Mozilla - References: Web API](https://developer.mozilla.org/en-US/docs/Web/API) 📄🔥
