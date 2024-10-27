@@ -45,3 +45,4 @@ Student projects and original code to find in [javascript20-projects](https://gi
 - [Mozilla - References: Web API](https://developer.mozilla.org/en-US/docs/Web/API) 📄🔥
 - [Mozilla - Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop) 📄🔥
 - [W3Schools - Asynchronous JavaScript](https://www.w3schools.com/js/js_asynchronous.asp) 📄🔥
+- [Wikipedia - Ryan Dahl (inventor of Node.js as JS Runtime)](https://en.wikipedia.org/wiki/Ryan_Dahl#:~:text=Ryan%20Dahl%20(born%201981)%20is,the%20Deno%20JavaScript%2FTypeScript%20runtime.&text=Dahl%20(2010%3B%20age%2029).)
