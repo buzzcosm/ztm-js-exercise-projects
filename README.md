@@ -10,6 +10,8 @@ Exercise Projects of `ZTM` Course on Udemy ([JavaScript Web Projects: 20 Project
 
 Student projects and original code to find in [javascript20-projects](https://github.com/buzzcosm/javascript20-projects) forked from [zero-to-mastery/javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects).
 
+![finished](https://progress-bar.xyz/100/?title=progress)
+
 ### Exercises
 
 1. Quote Generator - [Github](https://github.com/buzzcosm/quote-generator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/quote-generator-vanilla-js-app/) 
